@@ -55,3 +55,15 @@ var twoSum = function(nums, target) {
 Hash maps are powerful for solving array problems that require pair finding or lookups! This solution achieves O(n) time complexity compared to the brute force O(n²) approach.
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/itsanmolmishra/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/itsanmolmishra/LeetCode-Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
