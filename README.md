@@ -66,4 +66,8 @@ Hash maps are powerful for solving array problems that require pair finding or l
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsanmolmishra/LeetCode-Solutions/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/itsanmolmishra/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
