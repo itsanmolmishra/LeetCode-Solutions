@@ -70,8 +70,17 @@ Hash maps are powerful for solving array problems that require pair finding or l
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/itsanmolmishra/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/itsanmolmishra/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/itsanmolmishra/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/itsanmolmishra/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/itsanmolmishra/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
